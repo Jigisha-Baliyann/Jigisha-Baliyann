@@ -14,48 +14,35 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
 
-### 🏗️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 
-### ☁️ Cloud & DevOps  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+**Cloud & DevOps:**  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
 
-### ⚡ Core Skills  
+**Core Skills:**  
 `DSA` • `OOPs` • `DBMS` • `Software Design Principles` • `Clean Code` • `Agile Workflow`  
 
 ---
 
 ## 📂 Featured Projects
-🔹 [**MEETLY – AI-Powered Meeting Assistant**](https://github.com/Jigisha-Baliyann/Meetly)  
-> A no-code agent using **n8n + OpenAI API**, automating scheduling, summarization & follow-ups with Google Calendar.  
 
 🔹 [**FORMATiQ – Smart Document Formatter**](https://github.com/Jigisha-Baliyann/Format-iQ)  
 > An intelligent **automation tool** that formats unstructured documents into clean, structured formats using **FastAPI & AI prompts**.  
 
 🔹 [**MEDIWISE – AI-Powered Medical Insights**](https://github.com/Jigisha-Baliyann/MediWise)  
-> Upload prescriptions/reports and get structured AI-driven medical insights. Built with **FastAPI, React, and OCR integration**.  
+> Upload prescriptions/reports and get structured AI-driven medical insights. Built with **FastAPI, React, and OCR integration**.
+
+🔹 [**MEETLY – AI-Powered Meeting Assistant**](https://github.com/Jigisha-Baliyann/Meetly)  
+> A no-code agent using **n8n + OpenAI API**, automating scheduling, summarization & follow-ups with Google Calendar.  
 
 🔹 [**HEALTHIF-i – Secure Digital Healthcare Platform**](https://github.com/suhanigoel24/Healthif-i)  
 > **Node.js + MongoDB + React** platform with JWT-secured login, appointment booking & chatbot assistance.  
@@ -94,13 +81,7 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigisha-baliyann/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Jigisha-Baliyann)  
-[![X](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/JigishaBaliyann)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/j.baliyann/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workspace.jigisha@gmail.com)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1037566887405572197)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/jigishabaliyann)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigisha-baliyann/) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Jigisha-Baliyann) [![X](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/JigishaBaliyann) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/j.baliyann/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workspace.jigisha@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1037566887405572197) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/jigishabaliyann)  
 
 ---
 
