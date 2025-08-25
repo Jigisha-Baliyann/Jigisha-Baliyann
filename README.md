@@ -29,14 +29,14 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
 
 **Core Skills:**  
-`DSA` • `OOPs` • `DBMS` • `Software Design Principles` • `Clean Code` • `Agile Workflow`  
+`DSA` • `OOPs` • `DBMS` • `Software Design & Testing Principles` • `Clean Code` • `Agile Workflow`  
 
 ---
 
 ## 📂 Featured Projects
 
 🔹 [**FORMATiQ – Smart Document Formatter**](https://github.com/Jigisha-Baliyann/Format-iQ)  
-> An intelligent **automation tool** that formats unstructured documents into clean, structured formats using **FastAPI & AI prompts**.  
+> An intelligent **automation tool** that formats unstructured Researech Papers into clean, structured formats as per standards using **FastAPI & AI prompts**.  
 
 🔹 [**MEDIWISE – AI-Powered Medical Insights**](https://github.com/Jigisha-Baliyann/MediWise)  
 > Upload prescriptions/reports and get structured AI-driven medical insights. Built with **FastAPI, React, and OCR integration**.
@@ -64,19 +64,25 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 
 ---
 
+## 📑 Research & Publications
+- 📝 **Research Paper on Project MARGDARSHAK**  
+  *A real-time route optimization system integrating traffic & weather data for accurate travel-time predictions.*  
+  🔗 [View Paper](https://docs.google.com/document/d/1KW2Ncmu5vWYoTYyFgTpvVK1l5yapUyfE/edit?usp=sharing&ouid=100386291535530767064&rtpof=true&sd=true)  
+
+---
+
 ## 🌐 Leadership & Community
 - 🎯 **Organizing Team Member** – HackGround India 2k25 Hackathon  
 - 📘 **Founding Member & Secretary** – *Yuktikula Club (CSE-DS Dept., GLBITM)*  
 - 📢 **Marketing Executive** – *TEDx GL Bajaj*  
-- 📱 **Social Media Lead & PR Member** – *Abhyudaya Club*  
-- 🤝 **Secretary & Partnership Manager** – *Innov8x Community*  
+- 📱 **Social Media Lead & PR Member** – *Abhyudaya Club (ACSE Dept., GLBITM)*  
+- 🤝 **Secretary & Partnership Manager** – *Innov8x Community (ACSE Dept., GLBITM)*  
 - 👥 **Team Leader** – HackWithDelhi (Ranked 7th overall)  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jigisha-Baliyann&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigisha-Baliyann&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jigisha-Baliyann&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigisha-Baliyann&layout=compact&theme=radical)  
 
 ---
 
