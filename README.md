@@ -38,8 +38,8 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 🔹 [**FORMATiQ – Smart Document Formatter**](https://github.com/Jigisha-Baliyann/Format-iQ)  
 > An intelligent **automation tool** that formats unstructured Researech Papers into clean, structured formats as per standards using **FastAPI & AI prompts**.  
 
-🔹 [**MEDIWISE – AI-Powered Medical Insights**](https://github.com/Jigisha-Baliyann/MediWise)  
-> Upload prescriptions/reports and get structured AI-driven medical insights. Built with **FastAPI, React, and OCR integration**.
+🔹 [**PRAGATI-PATH – Blockchain-Powered Civic Transparency Platform**](https://github.com/Jigisha-Baliyann/PragatiPath-)  
+> A blockchain-based platform for transparent and accountable civic processes. It enables crowdsourced issue reporting, real-time validation, decentralized storage, and dashboards for citizens & authorities, ensuring trust, efficiency, and scalability across governance services.
 
 🔹 [**MEETLY – AI-Powered Meeting Assistant**](https://github.com/Jigisha-Baliyann/Meetly)  
 > A no-code agent using **n8n + OpenAI API**, automating scheduling, summarization & follow-ups with Google Calendar.  
@@ -55,12 +55,14 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 ---
 
 ## 🏆 Achievements
-- 🥈 **Runner-Up – HackWave’23 (NIT Karnataka)**  
-- 🏅 **Finalist – IIT Roorkee Mind the Product & Trading Heist (2025)**  
-- 🏅 **Finalist – Agentic AI Mini-Hackathon 2025 by KAMALA**  
-- ✅ **Smart India Hackathon 2024 – Qualified (Internal Round)**  
-- 👩‍💻 Solved **200+ DSA problems** (LeetCode, GFG, CodeStudio, CodeChef)  
-- ⭐ **HackerRank**: 5★ Python | 5★ Statistics | 4★ Problem Solving  
+- 🥈 **Runner-Up – HackWave’23, NIT Karnataka**
+- 🎯 **Finalist – IIT Roorkee “Mind the Product” and “Trading Heist” (2025)**
+- ☁️ **Google Cloud Agentic AI Day 2025 Hackathon – Shortlisted to top 700 teams out of 9100+**
+- 🤖 **Finalist – Agentic AI Mini-Hackathon 2025 by KAMALA**
+- 🇮🇳 **Smart India Hackathon 2024 (Internal Round) – Qualified**
+- 👩‍💻 **Team Leader – HackWithDelhi (7th rank overall)**
+- 📚 **Solved 200+ DSA problems** across LeetCode, GFG, CodeStudio, CodeChef
+- 🏅 **HackerRank:** 5⭐ Python | 5⭐ Statistics | 4⭐ Problem Solving | Python(Basic) verfiied
 
 ---
 
@@ -91,4 +93,4 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 
 ---
 
-✨ *“Code. Solve. Build. Repeat.”*  
+✨ _Always exploring, always building, always learning!_
