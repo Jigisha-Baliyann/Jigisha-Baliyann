@@ -55,14 +55,14 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 ---
 
 ## 🏆 Achievements
-🥈 **Runner-Up – HackWave’23, NIT Karnataka**
-🎯 **Finalist – IIT Roorkee “Mind the Product” and “Trading Heist” (2025)**
-☁️ **Google Cloud Agentic AI Day 2025 Hackathon – Shortlisted to top 700 teams out of 9100+**
-🤖 **Finalist – Agentic AI Mini-Hackathon 2025 by KAMALA**
-🇮🇳 **Smart India Hackathon 2024 (Internal Round) – Qualified**
-👩‍💻 **Team Leader – HackWithDelhi (7th rank overall)**
-📚 **Solved 200+ DSA problems** across LeetCode, GFG, CodeStudio, CodeChef
-🏅 **HackerRank:** 5⭐ Python | 5⭐ Statistics | 4⭐ Problem Solving | Python(Basic) verfiied
+🥈 **Runner-Up – HackWave’23, NIT Karnataka**  
+🎯 **Finalist – IIT Roorkee “Mind the Product” and “Trading Heist” (2025)**  
+☁️ **Google Cloud Agentic AI Day 2025 Hackathon – Shortlisted to top 700 teams out of 9100+**  
+🤖 **Finalist – Agentic AI Mini-Hackathon 2025 by KAMALA**  
+🇮🇳 **Smart India Hackathon 2024 (Internal Round) – Qualified**  
+👩‍💻 **Team Leader – HackWithDelhi (7th rank overall)**  
+📚 **Solved 200+ DSA problems** across LeetCode, GFG, CodeStudio, CodeChef  
+🏅 **HackerRank:** 5⭐ Python | 5⭐ Statistics | 4⭐ Problem Solving | Python(Basic) verfiied  
 
 ---
 
@@ -84,9 +84,6 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jigisha-Baliyann&theme=radical)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jigisha-Baliyann&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigisha-Baliyann&layout=compact&theme=radical)  
 
 ---
