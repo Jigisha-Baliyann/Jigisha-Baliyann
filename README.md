@@ -7,10 +7,10 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 ---
 
 ## 🚀 About Me
-- 🔭 Preparing for **Software Engineering & AI-driven product roles**  
-- 🌱 Exploring **AI agents, distributed systems, and system design**  
-- 🧩 Strong foundation in **Core Java, Python, DSA, OOPs, and DBMS**  
-- 🤝 Active in **hackathons, tech clubs, and open-source communities**  
+🔭 Preparing for **Software Engineering & AI-driven product roles**  
+🌱 Exploring **AI agents, distributed systems, and system design**  
+🧩 Strong foundation in **Core Java, Python, DSA, OOPs, and DBMS**  
+🤝 Active in **hackathons, tech clubs, and open-source communities**  
 
 ---
 
@@ -55,31 +55,41 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 ---
 
 ## 🏆 Achievements
-- 🥈 **Runner-Up – HackWave’23, NIT Karnataka**
-- 🎯 **Finalist – IIT Roorkee “Mind the Product” and “Trading Heist” (2025)**
-- ☁️ **Google Cloud Agentic AI Day 2025 Hackathon – Shortlisted to top 700 teams out of 9100+**
-- 🤖 **Finalist – Agentic AI Mini-Hackathon 2025 by KAMALA**
-- 🇮🇳 **Smart India Hackathon 2024 (Internal Round) – Qualified**
-- 👩‍💻 **Team Leader – HackWithDelhi (7th rank overall)**
-- 📚 **Solved 200+ DSA problems** across LeetCode, GFG, CodeStudio, CodeChef
-- 🏅 **HackerRank:** 5⭐ Python | 5⭐ Statistics | 4⭐ Problem Solving | Python(Basic) verfiied
+🥈 **Runner-Up – HackWave’23, NIT Karnataka**
+🎯 **Finalist – IIT Roorkee “Mind the Product” and “Trading Heist” (2025)**
+☁️ **Google Cloud Agentic AI Day 2025 Hackathon – Shortlisted to top 700 teams out of 9100+**
+🤖 **Finalist – Agentic AI Mini-Hackathon 2025 by KAMALA**
+🇮🇳 **Smart India Hackathon 2024 (Internal Round) – Qualified**
+👩‍💻 **Team Leader – HackWithDelhi (7th rank overall)**
+📚 **Solved 200+ DSA problems** across LeetCode, GFG, CodeStudio, CodeChef
+🏅 **HackerRank:** 5⭐ Python | 5⭐ Statistics | 4⭐ Problem Solving | Python(Basic) verfiied
 
 ---
 
 ## 📑 Research & Publications
-- 📝 **Research Paper on Project MARGDARSHAK**  
+📝 **Research Paper on Project MARGDARSHAK**  
   *A real-time route optimization system integrating traffic & weather data for accurate travel-time predictions.*  
   🔗 [View Paper](https://docs.google.com/document/d/1KW2Ncmu5vWYoTYyFgTpvVK1l5yapUyfE/edit?usp=sharing&ouid=100386291535530767064&rtpof=true&sd=true)  
 
 ---
 
 ## 🌐 Leadership & Community
-- 🎯 **Organizing Team Member** – HackGround India 2k25 Hackathon  
-- 📘 **Founding Member & Secretary** – *Yuktikula Club (CSE-DS Dept., GLBITM)*  
-- 📢 **Marketing Executive** – *TEDx GL Bajaj*  
-- 📱 **Social Media Lead & PR Member** – *Abhyudaya Club (ACSE Dept., GLBITM)*  
-- 🤝 **Secretary & Partnership Manager** – *Innov8x Community (ACSE Dept., GLBITM)*  
-- 👥 **Team Leader** – HackWithDelhi (Ranked 7th overall)  
+🎯 **Organizing Team Member** – HackGround India 2k25 Hackathon  
+📘 **Founding Member & Secretary** – *Yuktikula Club (CSE-DS Dept., GLBITM)*  
+📢 **Marketing Executive** – *TEDx GL Bajaj*  
+📱 **Social Media Lead & PR Member** – *Abhyudaya Club (ACSE Dept., GLBITM)*  
+🤝 **Secretary & Partnership Manager** – *Innov8x Community (ACSE Dept., GLBITM)*  
+👥 **Team Leader** – HackWithDelhi (Ranked 7th overall)  
+
+---
+
+## 📈 GitHub Activity
+
+![Jigisha's Streak](https://github-readme-streak-stats.herokuapp.com?user=Jigisha-Baliyann&theme=radical&hide_border=true)  
+
+![Jigisha's Contributions](https://github-readme-stats.vercel.app/api?username=Jigisha-Baliyann&show_icons=true&theme=radical&count_private=true)  
+
+![Jigisha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jigisha-Baliyann&theme=radical&hide_border=true)
 
 ---
 
