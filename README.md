@@ -83,17 +83,10 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 
 ---
 
-## 📈 GitHub Activity
-
-![Jigisha's Streak](https://github-readme-streak-stats.herokuapp.com?user=Jigisha-Baliyann&theme=radical&hide_border=true)  
-
-![Jigisha's Contributions](https://github-readme-stats.vercel.app/api?username=Jigisha-Baliyann&show_icons=true&theme=radical&count_private=true)  
-
-![Jigisha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jigisha-Baliyann&theme=radical&hide_border=true)
-
----
-
 ## 📊 GitHub Stats
+
+![Jigisha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jigisha-Baliyann&theme=radical&hide_border=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jigisha-Baliyann&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigisha-Baliyann&layout=compact&theme=radical)  
 
 ---
