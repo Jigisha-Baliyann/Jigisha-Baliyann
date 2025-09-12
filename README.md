@@ -56,8 +56,8 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 
 ## 🏆 Achievements
 🥈 **Runner-Up – HackWave’23, NIT Karnataka**  
+☁️ **Finalist – Google Cloud Agentic AI Day 2025 Hackathon (top 700 teams out of 9100+)**  
 🎯 **Finalist – IIT Roorkee “Mind the Product” and “Trading Heist” (2025)**  
-☁️ **Google Cloud Agentic AI Day 2025 Hackathon – Shortlisted to top 700 teams out of 9100+**  
 🤖 **Finalist – Agentic AI Mini-Hackathon 2025 by KAMALA**  
 🇮🇳 **Smart India Hackathon 2024 (Internal Round) – Qualified**  
 👩‍💻 **Team Leader – HackWithDelhi (7th rank overall)**  
