@@ -59,8 +59,8 @@ I'm a final-year **CSE (Data Science)** undergrad at GL Bajaj Institute of Techn
 ☁️ **Finalist – Google Cloud Agentic AI Day 2025 Hackathon (top 700 teams out of 9100+)**  
 🎯 **Finalist – IIT Roorkee “Mind the Product” and “Trading Heist” (2025)**  
 🤖 **Finalist – Agentic AI Mini-Hackathon 2025 by KAMALA**  
-🇮🇳 **Smart India Hackathon 2024 (Internal Round) – Qualified**  
-👩‍💻 **Team Leader – HackWithDelhi (7th rank overall)**  
+🇮🇳 **SIH Qualifier 2x – Smart India Hackathon (Internal)**  
+👩‍💻 **Team Leader – HackWithDelhi (7th Rank overall)**  
 📚 **Solved 200+ DSA problems** across LeetCode, GFG, CodeStudio, CodeChef  
 🏅 **HackerRank:** 5⭐ Python | 5⭐ Statistics | 4⭐ Problem Solving | Python(Basic) verfiied  
 
